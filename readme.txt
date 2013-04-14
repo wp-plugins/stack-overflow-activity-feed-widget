@@ -5,7 +5,7 @@ Requires at least: 2.9.2
 Tested up to: 3.5
 Stable tag: 1.0	
 License: GPLv2 or later
-License URI: License URI: http://www.gnu.org/licenses/gpl-2.0.html
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 This widget displays feed items of latest activity from Stack Overflow
 
